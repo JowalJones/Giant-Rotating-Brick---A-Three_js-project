@@ -3,12 +3,13 @@ This is a three.js project that basically displays a giant rotating brick. The p
 
 The project is written in JavaScript and uses the [three.js](https://threejs.org/) library.
 
-The project can be viewed at [http://rotating.jowaljones.com/](http://rotating.jowaljones.com/).
+The project can be viewed at [http://test.jowaljones.com/](http://test.jowaljones.com/).
 
 ---
 Here are the images of the final project:
 
-![screenshot](https://github.com/JowalJones/Giant-Rotating-Brick---A-Three_js-project/blob/master/images/rotate1.png?raw=true)
+![screenshot](images\rotate1.png)
+
 ![screenshot](images\rotate3.png)
 
 ![screenshot](images\rotate2.png)
